@@ -15,7 +15,7 @@ EYES_WINDOW = st.image([], width=50)
 SEED_WINDOW = st.image([])
 cap = cv2.VideoCapture(1)
 detector = FaceMeshDetector(maxFaces=1)
-image = Image.open("eyes_animation/open.tiff")
+#image = Image.open("eyes_animation/open.tiff")
 eyesOpen = True
 #st.image(image)
 lengthHor = 0

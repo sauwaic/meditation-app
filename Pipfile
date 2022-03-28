@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 cvzone = "*"
 mediapipe = "*"
-opencv-python = "*"
+opencv-python-headerless = "*"
 streamlit = "*"
 streamlit-player = "*"
 
